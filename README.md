@@ -6,4 +6,4 @@ I'm a full stack developer with extensive experience in building and deploying r
 ---
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrejcbittencourt&show_icons=true&locale=en&layout=compact" alt="andrejcbittencourt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrejeronimobittencourt&show_icons=true&locale=en&layout=compact" alt="andrejeronimobittencourt" />
